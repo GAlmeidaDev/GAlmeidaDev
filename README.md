@@ -31,6 +31,7 @@ I am a seasoned software developer with over 7 years of experience, passionate a
 ## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2022 with Globo, contributing to open-source projects and celebrating collaboration.
+- 🌟 AWS Certified Cloud Practitioner 
 
 ## 📬 Get in Touch
 
