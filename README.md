@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel Hudson Pereira Almeida! 👋
 
-I am a seasoned software developer with over 7 years of experience, passionate about technology, games, and writing. My journey in tech began with developing websites and blogs focused on games using jQuery and AJAX, and has since expanded to various other domains.
+I am a seasoned software developer with over 7 years of experience, passionate about technology, games, and writing. My journey in tech began with developing websites and blogs focused on games using jQuery and AJAX, and has since expanded to various other domains, including .NET Core, React Native for banking applications, and urban mobility projects.
 
 
 ## 🚀 About Me
