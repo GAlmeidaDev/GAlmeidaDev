@@ -2,7 +2,6 @@
 
 I am a seasoned software developer with over 7 years of experience, passionate about technology, games, and writing. My journey in tech began with developing websites and blogs focused on games using jQuery and AJAX, and has since expanded to various other domains.
 
-![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=GAlmeidaDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
