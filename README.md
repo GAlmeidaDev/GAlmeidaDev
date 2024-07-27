@@ -21,11 +21,11 @@ I am a seasoned software developer with over 7 years of experience, passionate a
 
 ## 🌱 Currently Exploring
 
-- 🚀 Full Stack Web Development:
+- 🚀 Full Stack Development:
   - Delving into React and Redux for dynamic front-end experiences.
   - Mastering React Router for seamless navigation.
   - Styling with Tailwind CSS to create modern and responsive interfaces.
-  - Building robust backends with Django.
+  - Building robust backends with .NET core and NodeJS.
   - Utilizing PostgreSQL for efficient database management.
 
 ## 🏆 Achievements
