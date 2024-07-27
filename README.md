@@ -33,7 +33,3 @@ I am a seasoned software developer with over 7 years of experience, passionate a
 - 🌟 Completed Hacktoberfest 2022 with Globo, contributing to open-source projects and celebrating collaboration.
 - 🌟 AWS Certified Cloud Practitioner 2023
 
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://x.com/Almeida_dev)
-
