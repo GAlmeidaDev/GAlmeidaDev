@@ -5,7 +5,7 @@ I am a seasoned software developer with over 7 years of experience, passionate a
 
 ## 🚀 About Me
 
-- 🌟 I'm 27 years old with a rich background in software development.
+- 🌟 I'm 28 years old with a rich background in software development.
 - 💻 My first experience with programming involved jQuery and AJAX, creating game-related websites and blogs.
 - 🎮 I have experience in game development using C#, Unity 3D, and Blender, along with design documentation.
 - 📱 I've worked on mobile development with React Native, contributing to the white-label projects of Pernambucanas, including Palmeiras Pay and Carmen Steffens, which have garnered thousands of downloads.
